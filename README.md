@@ -57,3 +57,6 @@ After doing this all the device which are connected to this WiFi will be disconn
 
 * Github: [@AnandKatariya](https://github.com/AnandKatariya)
  
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AnandKatariya/How-To-Make-WiFi-Jammer/issues).
