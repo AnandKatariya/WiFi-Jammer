@@ -35,3 +35,4 @@ check and kill off processes that might interfere with the aircrack-ng suite.
 ```sh
 airmon-ng start wlan0
 ```
+Airmon-ng is used to read all the packets of data even if they are not sent to us. It controls the traffic received only on the wired/wireless networks. Wi-Fi adapters are mainly used for connecting your device to the internet. Most laptops, tablets, and mobile phones have an inbuild Wi-Fi card.
