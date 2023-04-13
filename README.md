@@ -29,3 +29,9 @@ Check weather the mode is on moniter mode or managed mode.
 airmon-ng check kill
 ```
 check and kill off processes that might interfere with the aircrack-ng suite.
+
+  ## Moniter mode
+
+```sh
+airmon-ng start wlan0
+```
