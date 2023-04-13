@@ -51,4 +51,9 @@ aireplay-ng --deauth 0 -a <target_mac> wlan0mon
 ```
 After doing this all the device which are connected to this WiFi will be disconnect cause this process will send deauthentication packges and due to this the WiFi we be get stuck and it will not able to connect any other device and this process will cause WiFi Jamming.
 
-  
+ ## Author
+
+👤 **Anand Katariya**
+
+* Github: [@AnandKatariya](https://github.com/AnandKatariya)
+ 
